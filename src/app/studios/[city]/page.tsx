@@ -16,35 +16,48 @@ type Studio = {
 };
 
 // Data Helper
+import { slugify } from "@/lib/utils";
+
+// Data Helper
 // In a real app, this would be a DB call
 const studios = studiosData as Studio[];
 
-function getStudiosByCity(city: string) {
-    return studios.filter((s) => s.city.toLowerCase() === city.toLowerCase());
+function getStudiosByCity(slug: string) {
+    return studios.filter((s) => slugify(s.city) === slug);
 }
 
 export async function generateStaticParams() {
-    const cities = Array.from(new Set(studios.map((s) => s.city.toLowerCase())));
+    const cities = Array.from(new Set(studios.map((s) => s.city)));
     return cities.map((city) => ({
-        city: city,
+        city: slugify(city),
     }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ city: string }> }): Promise<Metadata> {
     const { city } = await params;
-    const capitalizedCity = city.charAt(0).toUpperCase() + city.slice(1);
-    const count = getStudiosByCity(city).length;
+    const cityStudios = getStudiosByCity(city);
+
+    // Fallback if no studio found (should be handled by notFound below but good for types)
+    if (cityStudios.length === 0) return {};
+
+    const cityName = cityStudios[0].city;
+    const count = cityStudios.length;
 
     return {
-        title: `Meilleurs Cours de Yoga à ${capitalizedCity} (Top ${count}) - Yogavita`,
-        description: `Découvrez notre sélection des ${count} meilleurs studios de yoga à ${capitalizedCity}. Avis, tarifs, et styles (Hatha, Vinyasa, Bikram...).`,
+        title: `Meilleurs Cours de Yoga à ${cityName} (Top ${count}) - Yogavita`,
+        description: `Découvrez notre sélection des ${count} meilleurs studios de yoga à ${cityName}. Avis, tarifs, et styles (Hatha, Vinyasa, Bikram...).`,
     };
 }
 
 export default async function CityPage({ params }: { params: Promise<{ city: string }> }) {
     const { city } = await params;
     const cityStudios = getStudiosByCity(city);
-    const capitalizedCity = city.charAt(0).toUpperCase() + city.slice(1);
+
+    if (cityStudios.length === 0) {
+        notFound();
+    }
+
+    const cityName = cityStudios[0].city;
 
     if (cityStudios.length === 0) {
         notFound();
@@ -60,10 +73,10 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
 
                 <header className="mb-12 text-center max-w-3xl mx-auto">
                     <h1 className="text-4xl font-bold tracking-tight text-stone-900 sm:text-5xl font-serif mb-6">
-                        Les meilleurs cours de Yoga à <span className="text-terracotta-600">{capitalizedCity}</span>
+                        Les meilleurs cours de Yoga à <span className="text-terracotta-600">{cityName}</span>
                     </h1>
                     <p className="text-lg text-stone-600">
-                        Vous cherchez à pratiquer le yoga à {capitalizedCity} ? Découvrez notre sélection indépendante des studios les mieux notés par la communauté.
+                        Vous cherchez à pratiquer le yoga à {cityName} ? Découvrez notre sélection indépendante des studios les mieux notés par la communauté.
                     </p>
                 </header>
 

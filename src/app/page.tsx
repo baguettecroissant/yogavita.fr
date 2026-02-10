@@ -6,6 +6,8 @@ import { FranceMap } from "@/components/studios/FranceMap";
 import studiosData from "@/data/studios.json";
 import cityCoordinates from "@/data/city-coordinates.json";
 
+import { slugify } from "@/lib/utils";
+
 export default function Home() {
   const posts = getAllPosts().slice(0, 3);
 
@@ -22,7 +24,7 @@ export default function Home() {
   const cities = Object.entries(cityStats).map(([name, stat]) => ({
     name,
     ...stat,
-    slug: name.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, "-"),
+    slug: slugify(name),
   }));
 
   const coords = cityCoordinates as Record<string, { lat: number; lng: number }>;

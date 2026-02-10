@@ -10,6 +10,8 @@ export const metadata: Metadata = {
     description: "Trouvez le meilleur studio de yoga près de chez vous. Consultez nos sélections par ville avec notre carte interactive.",
 };
 
+import { slugify } from "@/lib/utils";
+
 export default function StudiosIndex() {
     // Extract unique cities and count studios
     const cityStats = studiosData.reduce((acc, studio) => {
@@ -24,7 +26,7 @@ export default function StudiosIndex() {
     const cities = Object.entries(cityStats).map(([name, stat]) => ({
         name,
         ...stat,
-        slug: name.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, "-"),
+        slug: slugify(name),
     }));
 
     // Build map data with coordinates
