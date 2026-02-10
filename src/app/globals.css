@@ -1,0 +1,94 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  /* Premium Earth Palette */
+  --color-sand-50: #fdfcfb;
+  --color-sand-100: #fcfaf8;
+  --color-sand-200: #f3efe9;
+  /* Main Background */
+  --color-sand-300: #e8e2d9;
+  --color-sand-400: #d0c4b4;
+  --color-sand-500: #b5a48e;
+  --color-sand-800: #5e5346;
+  --color-sand-900: #433b32;
+
+  --color-clay-500: #c26d5c;
+  /* Terracotta Accent */
+  --color-clay-600: #a85848;
+  --color-clay-900: #5c2b21;
+
+  --color-moss-500: #6d7a64;
+  /* Sage Accent */
+  --color-moss-800: #3a4235;
+
+  /* Re-mapping old variables to new palette for compatibility during migration */
+  --color-sage-50: var(--color-sand-50);
+  --color-sage-100: var(--color-sand-100);
+  --color-sage-800: var(--color-moss-800);
+  --color-terracotta-500: var(--color-clay-500);
+  --color-terracotta-600: var(--color-clay-600);
+  --color-stone-900: #1a1918;
+  --color-stone-600: var(--color-sand-800);
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-playfair), ui-serif, Georgia, serif;
+
+  --animate-fade-in-up: fadeInUp 0.8s ease-out forwards;
+}
+
+@layer base {
+
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-sand-300, currentColor);
+  }
+
+  :root {
+    --background: var(--color-sand-100);
+    --foreground: #1c1917;
+  }
+
+  body {
+    background-color: var(--color-sand-100);
+    color: var(--foreground);
+    font-feature-settings: "rlig" 1, "calt" 1;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::selection {
+    background-color: var(--color-clay-500);
+    color: white;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@utility container {
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+/* Glassmorphism Utilities */
+@utility glass {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+}

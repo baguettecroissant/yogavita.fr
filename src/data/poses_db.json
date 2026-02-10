@@ -1,0 +1,448 @@
+[
+    {
+        "title": "Posture de la Montagne",
+        "sanskritName": "Tadasana",
+        "difficulty": "Débutant",
+        "category": "Debout",
+        "benefits": [
+            "Améliore la posture",
+            "Renforce les cuisses et les chevilles",
+            "Soulage la sciatique"
+        ],
+        "contraindications": [
+            "Hypotension",
+            "Maux de tête",
+            "Insomnie"
+        ],
+        "slug": "tadasana-posture-montagne"
+    },
+    {
+        "title": "Posture de l'Arbre",
+        "sanskritName": "Vrikshasana",
+        "difficulty": "Débutant",
+        "category": "Équilibre",
+        "benefits": [
+            "Améliore l'équilibre",
+            "Renforce les jambes et le dos",
+            "Ouvre les hanches"
+        ],
+        "contraindications": [
+            "Migraine",
+            "Insomnie",
+            "Pression artérielle basse/haute"
+        ],
+        "slug": "vrikshasana-posture-arbre",
+        "image": "/images/poses/vrikshasana-posture-arbre.png"
+    },
+    {
+        "title": "Chien tête en bas",
+        "sanskritName": "Adho Mukha Svanasana",
+        "difficulty": "Débutant",
+        "category": "Inversion",
+        "benefits": [
+            "Étire toute la chaîne postérieure",
+            "Renforce les bras et les épaules",
+            "Calme le cerveau"
+        ],
+        "contraindications": [
+            "Syndrome du canal carpien",
+            "Diarrhée",
+            "Grossesse (fin de terme)"
+        ],
+        "slug": "adho-mukha-svanasana-chien-tete-bas",
+        "image": "/images/poses/adho-mukha-svanasana.png"
+    },
+    {
+        "title": "Guerrier I",
+        "sanskritName": "Virabhadrasana I",
+        "difficulty": "Débutant",
+        "category": "Debout",
+        "benefits": [
+            "Étire la poitrine et le cou",
+            "Renforce les épaules et les bras",
+            "Tonifie les jambes"
+        ],
+        "contraindications": [
+            "Problèmes cardiaques",
+            "Hypertension",
+            "Blessure à l'épaule"
+        ],
+        "slug": "virabhadrasana-1-guerrier-1",
+        "image": "/images/poses/virabhadrasana-1-guerrier-1.png"
+    },
+    {
+        "title": "Guerrier II",
+        "sanskritName": "Virabhadrasana II",
+        "difficulty": "Débutant",
+        "category": "Debout",
+        "benefits": [
+            "Ouvre les hanches et la poitrine",
+            "Renforce et étire les jambes",
+            "Stimule les organes abdominaux"
+        ],
+        "contraindications": [
+            "Diarrhée",
+            "Hypertension",
+            "Problèmes de cou (regarder devant)"
+        ],
+        "slug": "virabhadrasana-2-guerrier-2",
+        "image": "/images/poses/virabhadrasana-2-guerrier-2.png"
+    },
+    {
+        "title": "Guerrier III",
+        "sanskritName": "Virabhadrasana III",
+        "difficulty": "Intermédiaire",
+        "category": "Équilibre",
+        "benefits": [
+            "Renforce les muscles du dos",
+            "Tonifie les abdominaux",
+            "Améliore l'équilibre et la posture"
+        ],
+        "contraindications": [
+            "Hypertension",
+            "Problèmes cardiaques"
+        ],
+        "slug": "virabhadrasana-3-guerrier-3",
+        "image": "/images/poses/virabhadrasana-3-guerrier-3.png"
+    },
+    {
+        "title": "Posture du Triangle",
+        "sanskritName": "Utthita Trikonasana",
+        "difficulty": "Débutant",
+        "category": "Debout",
+        "benefits": [
+            "Étire les hanches et la colonne",
+            "Ouvre la poitrine",
+            "Soulage les maux de dos"
+        ],
+        "contraindications": [
+            "Diarrhée",
+            "Maux de tête",
+            "Pression artérielle basse"
+        ],
+        "slug": "utthita-trikonasana-triangle",
+        "image": "/images/poses/utthita-trikonasana-triangle.png"
+    },
+    {
+        "title": "Posture de l'Enfant",
+        "sanskritName": "Balasana",
+        "difficulty": "Débutant",
+        "category": "Repos",
+        "benefits": [
+            "Relâche le bas du dos",
+            "Calme le système nerveux",
+            "Étire les hanches et les cuisses"
+        ],
+        "contraindications": [
+            "Diarrhée",
+            "Grossesse",
+            "Blessure au genou"
+        ],
+        "slug": "balasana-posture-enfant",
+        "image": "/images/poses/balasana-posture-enfant.png"
+    },
+    {
+        "title": "Posture du Cobra",
+        "sanskritName": "Bhujangasana",
+        "difficulty": "Débutant",
+        "category": "Extension",
+        "benefits": [
+            "Renforce la colonne vertébrale",
+            "Ouvre la poitrine et les poumons",
+            "Stimule les organes abdominaux"
+        ],
+        "contraindications": [
+            "Grossesse",
+            "Mal de dos (phase aiguë)",
+            "Syndrome du canal carpien"
+        ],
+        "slug": "bhujangasana-posture-cobra",
+        "image": "/images/poses/bhujangasana-posture-cobra.png"
+    },
+    {
+        "title": "Chien tête en haut",
+        "sanskritName": "Urdhva Mukha Svanasana",
+        "difficulty": "Intermédiaire",
+        "category": "Extension",
+        "benefits": [
+            "Améliore la posture",
+            "Renforce la colonne, les bras et les poignets",
+            "Stimule les organes abdominaux"
+        ],
+        "contraindications": [
+            "Grossesse",
+            "Mal de dos",
+            "Syndrome du canal carpien"
+        ],
+        "slug": "urdhva-mukha-svanasana-chien-tete-haut",
+        "image": "/images/poses/urdhva-mukha-svanasana-chien-tete-haut.png"
+    },
+    {
+        "title": "Posture du Cadavre",
+        "sanskritName": "Shavasana",
+        "difficulty": "Débutant",
+        "category": "Repos",
+        "benefits": [
+            "Relaxe tout le corps",
+            "Réduit le stress et l'anxiété",
+            "Aide à abaisser la pression artérielle"
+        ],
+        "contraindications": [
+            "Mal de dos (plier les genoux)",
+            "Grossesse (sur le côté)"
+        ],
+        "slug": "shavasana-posture-cadavre",
+        "image": "/images/poses/shavasana-posture-cadavre.png"
+    },
+    {
+        "title": "Posture du Lotus",
+        "sanskritName": "Padmasana",
+        "difficulty": "Avancé",
+        "category": "Assis",
+        "benefits": [
+            "Ouvre les hanches",
+            "Calme le cerveau",
+            "Idéal pour la méditation"
+        ],
+        "contraindications": [
+            "Blessure à la cheville",
+            "Blessure au genou"
+        ],
+        "slug": "padmasana-posture-lotus"
+    },
+    {
+        "title": "Demi-pince assise",
+        "sanskritName": "Janu Sirsasana",
+        "difficulty": "Débutant",
+        "category": "Flexion avant",
+        "benefits": [
+            "Étire la colonne et les ischio-jambiers",
+            "Stimule le foie et les reins",
+            "Calme l'esprit"
+        ],
+        "contraindications": [
+            "Asthme",
+            "Diarrhée",
+            "Blessure au genou"
+        ],
+        "slug": "janu-sirsasana-demi-pince"
+    },
+    {
+        "title": "Pince assise",
+        "sanskritName": "Paschimottanasana",
+        "difficulty": "Intermédiaire",
+        "category": "Flexion avant",
+        "benefits": [
+            "Calme le cerveau",
+            "Soulage le stress et la dépression légère",
+            "Étire la colonne et les épaules"
+        ],
+        "contraindications": [
+            "Asthme",
+            "Diarrhée",
+            "Mal de dos"
+        ],
+        "slug": "paschimottanasana-pince-assise"
+    },
+    {
+        "title": "Chandelle",
+        "sanskritName": "Salamba Sarvangasana",
+        "difficulty": "Intermédiaire",
+        "category": "Inversion",
+        "benefits": [
+            "Stimule la thyroïde",
+            "Calme le cerveau et soulage le stress",
+            "Améliore la digestion"
+        ],
+        "contraindications": [
+            "Diarrhée",
+            "Maux de tête",
+            "Hypertension",
+            "Règles",
+            "Blessure au cou"
+        ],
+        "slug": "salamba-sarvangasana-chandelle"
+    },
+    {
+        "title": "Posture de la Charrue",
+        "sanskritName": "Halasana",
+        "difficulty": "Intermédiaire",
+        "category": "Inversion",
+        "benefits": [
+            "Calme le cerveau",
+            "Stimule les organes abdominaux et la thyroïde",
+            "Étire les épaules et la colonne"
+        ],
+        "contraindications": [
+            "Diarrhée",
+            "Glaucome",
+            "Règles",
+            "Blessure au cou"
+        ],
+        "slug": "halasana-posture-charrue"
+    },
+    {
+        "title": "Posture du Poisson",
+        "sanskritName": "Matsyasana",
+        "difficulty": "Débutant",
+        "category": "Extension",
+        "benefits": [
+            "Étire les muscles profonds du dos et du cou",
+            "Soulage la tension dans le cou et les épaules",
+            "Ouvre la poitrine"
+        ],
+        "contraindications": [
+            "Hypertension ou hypotension",
+            "Migraine",
+            "Insomnie",
+            "Blessure au dos ou au cou"
+        ],
+        "slug": "matsyasana-posture-poisson"
+    },
+    {
+        "title": "Demi-Pont",
+        "sanskritName": "Setu Bandha Sarvangasana",
+        "difficulty": "Débutant",
+        "category": "Extension",
+        "benefits": [
+            "Étire la poitrine, le cou et la colonne",
+            "Calme le cerveau",
+            "Stimule les organes abdominaux"
+        ],
+        "contraindications": [
+            "Blessure au cou"
+        ],
+        "slug": "setu-bandha-sarvangasana-demi-pont"
+    },
+    {
+        "title": "Roue (arc inversé)",
+        "sanskritName": "Urdhva Dhanurasana",
+        "difficulty": "Avancé",
+        "category": "Extension",
+        "benefits": [
+            "Renforce les bras, les poignets, les jambes, les fesses",
+            "Ouvre la poitrine",
+            "Augmente l'énergie"
+        ],
+        "contraindications": [
+            "Syndrome du canal carpien",
+            "Diarrhée",
+            "Maux de tête",
+            "Problèmes cardiaques"
+        ],
+        "slug": "urdhva-dhanurasana-roue"
+    },
+    {
+        "title": "Posture de l'Aigle",
+        "sanskritName": "Garudasana",
+        "difficulty": "Intermédiaire",
+        "category": "Équilibre",
+        "benefits": [
+            "Renforce et étire les chevilles et les mollets",
+            "Étire les cuisses, les hanches, les épaules",
+            "Améliore la concentration"
+        ],
+        "contraindications": [
+            "Blessure au genou"
+        ],
+        "slug": "garudasana-posture-aigle"
+    },
+    {
+        "title": "Chaise",
+        "sanskritName": "Utkatasana",
+        "difficulty": "Débutant",
+        "category": "Debout",
+        "benefits": [
+            "Renforce les chevilles, les mollets et la colonne",
+            "Étire les épaules et la poitrine",
+            "Stimule les organes abdominaux"
+        ],
+        "contraindications": [
+            "Maux de tête",
+            "Insomnie",
+            "Pression artérielle basse"
+        ],
+        "slug": "utkatasana-chaise"
+    },
+    {
+        "title": "Posture du Bateau",
+        "sanskritName": "Navasana",
+        "difficulty": "Intermédiaire",
+        "category": "Assis",
+        "benefits": [
+            "Renforce les abdominaux et le dos",
+            "Stimule les reins et la thyroïde",
+            "Améliore la digestion"
+        ],
+        "contraindications": [
+            "Asthme",
+            "Diarrhée",
+            "Maux de tête",
+            "Problèmes cardiaques"
+        ],
+        "slug": "navasana-posture-bateau"
+    },
+    {
+        "title": "Posture du Pigeon (Demi)",
+        "sanskritName": "Eka Pada Rajakapotasana",
+        "difficulty": "Intermédiaire",
+        "category": "Ouverture de hanches",
+        "benefits": [
+            "Ouvre les hanches et l'aine",
+            "Étire les cuisses et le psoas",
+            "Calme l'esprit"
+        ],
+        "contraindications": [
+            "Blessure au genou",
+            "Blessure à la cheville"
+        ],
+        "slug": "eka-pada-rajakapotasana-pigeon"
+    },
+    {
+        "title": "Posture de la Guirlande",
+        "sanskritName": "Malasana",
+        "difficulty": "Débutant",
+        "category": "Ouverture de hanches",
+        "benefits": [
+            "Ouvre les hanches et l'aine",
+            "Étire les chevilles et le bas du dos",
+            "Tonifie le ventre"
+        ],
+        "contraindications": [
+            "Blessure au bas du dos",
+            "Blessure au genou"
+        ],
+        "slug": "malasana-guirlande"
+    },
+    {
+        "title": "Posture du Corbeau",
+        "sanskritName": "Bakasana",
+        "difficulty": "Avancé",
+        "category": "Équilibre sur les bras",
+        "benefits": [
+            "Renforce les bras et les poignets",
+            "Tonifie les abdominaux",
+            "Ouvre l'aine"
+        ],
+        "contraindications": [
+            "Syndrome du canal carpien",
+            "Grossesse"
+        ],
+        "slug": "bakasana-posture-corbeau"
+    },
+    {
+        "title": "Torsion assise",
+        "sanskritName": "Ardha Matsyendrasana",
+        "difficulty": "Débutant",
+        "category": "Torsion",
+        "benefits": [
+            "Stimule le foie et les reins",
+            "Étire les épaules et les hanches",
+            "Énergise la colonne vertébrale"
+        ],
+        "contraindications": [
+            "Blessure au dos ou à la colonne"
+        ],
+        "slug": "ardha-matsyendrasana-torsion-assise"
+    }
+]

@@ -1,0 +1,1411 @@
+[
+    {
+        "id": "paris-1",
+        "name": "Yoga Village Paris",
+        "city": "Paris",
+        "address": "15 Boulevard des Capucines, 75002 Paris",
+        "type": [
+            "Hatha",
+            "Vinyasa"
+        ],
+        "rating": 4.8,
+        "website": "https://yogavillage.fr"
+    },
+    {
+        "id": "paris-2",
+        "name": "Rasa Yoga Rive Gauche",
+        "city": "Paris",
+        "address": "21 Rue Saint-Jacques, 75005 Paris",
+        "type": [
+            "Ashtanga",
+            "Mysore"
+        ],
+        "rating": 4.9,
+        "website": "https://rasayoga.fr"
+    },
+    {
+        "id": "paris-3",
+        "name": "Tigre Yoga Club",
+        "city": "Paris",
+        "address": "19 Rue de Chaillot, 75116 Paris",
+        "type": [
+            "Kundalini",
+            "Yin"
+        ],
+        "rating": 4.7,
+        "website": "https://tigre-yoga.com"
+    },
+    {
+        "id": "paris-4",
+        "name": "Modo Yoga Paris",
+        "city": "Paris",
+        "address": "21 Boulevard Richard-Lenoir, 75011 Paris",
+        "type": [
+            "Hot Yoga",
+            "Vinyasa"
+        ],
+        "rating": 4.8,
+        "website": "https://modoyoga.com"
+    },
+    {
+        "id": "paris-5",
+        "name": "Qee Paris 9",
+        "city": "Paris",
+        "address": "3 Rue de Vanves, 75009 Paris",
+        "type": [
+            "Pilates",
+            "Prenatal"
+        ],
+        "rating": 4.6,
+        "website": "https://qee.fr"
+    },
+    {
+        "id": "paris-6",
+        "name": "Jivamukti Yoga Paris",
+        "city": "Paris",
+        "address": "92 Quai de Jemmapes, 75010 Paris",
+        "type": [
+            "Jivamukti",
+            "Vinyasa"
+        ],
+        "rating": 4.9,
+        "website": "https://jivamuktiyoga.fr"
+    },
+    {
+        "id": "paris-7",
+        "name": "Yuj Yoga Studio - Alma",
+        "city": "Paris",
+        "address": "11 Rue Edmond Valentin, 75007 Paris",
+        "type": [
+            "Dark Yoga",
+            "Infrared"
+        ],
+        "rating": 4.8,
+        "website": "https://yujyogastudio.com"
+    },
+    {
+        "id": "paris-8",
+        "name": "Centre de Yoga Sivananda",
+        "city": "Paris",
+        "address": "140 Rue du Faubourg Saint-Martin, 75010 Paris",
+        "type": [
+            "Traditional",
+            "Hatha",
+            "Vedanta"
+        ],
+        "rating": 4.7,
+        "website": "https://sivananda-paris.org"
+    },
+    {
+        "id": "paris-9",
+        "name": "Gérard Arnaud Yoga",
+        "city": "Paris",
+        "address": "3 Impasse de la Gaité, 75014 Paris",
+        "type": [
+            "Vinyasa",
+            "Formation"
+        ],
+        "rating": 4.6,
+        "website": "https://yoga-paris.com"
+    },
+    {
+        "id": "bordeaux-1",
+        "name": "Yoga Pop",
+        "city": "Bordeaux",
+        "address": "5 Passage des Argentiers, 33000 Bordeaux",
+        "type": [
+            "Vinyasa",
+            "Hatha"
+        ],
+        "rating": 4.9,
+        "website": "https://yogapop.fr"
+    },
+    {
+        "id": "bordeaux-2",
+        "name": "Satnam Club",
+        "city": "Bordeaux",
+        "address": "28 Rue de l'Abbé de l'Épée, 33000 Bordeaux",
+        "type": [
+            "Kundalini",
+            "Gong Bath"
+        ],
+        "rating": 4.8,
+        "website": "https://satnam-club.com"
+    },
+    {
+        "id": "bordeaux-3",
+        "name": "Yoga With You",
+        "city": "Bordeaux",
+        "address": "38 Quai de Bacalan, 33300 Bordeaux",
+        "type": [
+            "Iyengar",
+            "Hatha"
+        ],
+        "rating": 4.7,
+        "website": "https://yogawithyou.fr"
+    },
+    {
+        "id": "bordeaux-4",
+        "name": "Maison Kea",
+        "city": "Bordeaux",
+        "address": "15 Rue du Dr Albert Barraud, 33000 Bordeaux",
+        "type": [
+            "Yin",
+            "Vinyasa"
+        ],
+        "rating": 5.0,
+        "website": "https://maisonkea.com"
+    },
+    {
+        "id": "bordeaux-5",
+        "name": "Yoga Station",
+        "city": "Bordeaux",
+        "address": "20 Rue de la Gare, 33000 Bordeaux",
+        "type": [
+            "Hatha",
+            "Restorative"
+        ],
+        "rating": 4.6,
+        "website": "https://yogastation.fr"
+    },
+    {
+        "id": "lyon-1",
+        "name": "Yoga Lodge",
+        "city": "Lyon",
+        "address": "19 Place Tolozan, 69001 Lyon",
+        "type": [
+            "Hatha",
+            "Nidra"
+        ],
+        "rating": 4.7,
+        "website": "https://yoga-lodge.com"
+    },
+    {
+        "id": "lyon-2",
+        "name": "OnlyYoga",
+        "city": "Lyon",
+        "address": "3 Rue de la Charité, 69002 Lyon",
+        "type": [
+            "Vinyasa",
+            "Ashtanga"
+        ],
+        "rating": 4.8,
+        "website": "https://onlyyoga.fr"
+    },
+    {
+        "id": "lyon-3",
+        "name": "Le Tigre Yoga Lyon",
+        "city": "Lyon",
+        "address": "Grand Hôtel-Dieu, 69002 Lyon",
+        "type": [
+            "Wellness",
+            "Pilates"
+        ],
+        "rating": 4.9,
+        "website": "https://tigre-yoga.com/lyon"
+    },
+    {
+        "id": "lyon-4",
+        "name": "Olympe Yoga",
+        "city": "Lyon",
+        "address": "15 Quai de la Pêcherie, 69001 Lyon",
+        "type": [
+            "Hatha",
+            "Meditation"
+        ],
+        "rating": 4.6,
+        "website": "https://olympe-yoga.com"
+    },
+    {
+        "id": "lyon-5",
+        "name": "Yoga Korner",
+        "city": "Lyon",
+        "address": "3 Rue Pizay, 69001 Lyon",
+        "type": [
+            "Vinyasa",
+            "Yin"
+        ],
+        "rating": 4.8,
+        "website": "https://yogakorner.fr"
+    },
+    {
+        "id": "marseille-1",
+        "name": "Yoga Bikram Marseille",
+        "city": "Marseille",
+        "address": "19 Cours Pierre Puget, 13006 Marseille",
+        "type": [
+            "Bikram",
+            "Hot Yoga"
+        ],
+        "rating": 4.7,
+        "website": "https://yogabikrammarseille.com"
+    },
+    {
+        "id": "marseille-2",
+        "name": "Studio 108",
+        "city": "Marseille",
+        "address": "108 Rue Breteuil, 13006 Marseille",
+        "type": [
+            "Hatha",
+            "Iyengar"
+        ],
+        "rating": 4.8,
+        "website": "https://studio108.fr"
+    },
+    {
+        "id": "marseille-3",
+        "name": "Yama Yoga",
+        "city": "Marseille",
+        "address": "78 Corniche Président John Fitzgerald Kennedy, 13007 Marseille",
+        "type": [
+            "Vinyasa",
+            "Sea View"
+        ],
+        "rating": 4.9,
+        "website": "https://yamayoga.fr"
+    },
+    {
+        "id": "marseille-4",
+        "name": "Le Studio de Yoga",
+        "city": "Marseille",
+        "address": "2 Rue du Jeune Anacharsis, 13001 Marseille",
+        "type": [
+            "Ashtanga",
+            "Mysore"
+        ],
+        "rating": 4.6,
+        "website": "https://lestudiodelyoga.com"
+    },
+    {
+        "id": "toulouse-1",
+        "name": "Sattva Yoga Toulouse",
+        "city": "Toulouse",
+        "address": "73 Allées de brienne, 31000 Toulouse",
+        "type": [
+            "Traditional",
+            "Hatha"
+        ],
+        "rating": 4.8,
+        "website": "https://sattvayogatoulouse.fr"
+    },
+    {
+        "id": "toulouse-2",
+        "name": "Yogaventure",
+        "city": "Toulouse",
+        "address": "21 Rue de la République, 31300 Toulouse",
+        "type": [
+            "Vinyasa",
+            "Acroyoga"
+        ],
+        "rating": 4.9,
+        "website": "https://yogaventure.fr"
+    },
+    {
+        "id": "toulouse-3",
+        "name": "Espace Allegria",
+        "city": "Toulouse",
+        "address": "110 Rue Achille Viadieu, 31400 Toulouse",
+        "type": [
+            "Kundalini",
+            "Tantra"
+        ],
+        "rating": 4.7,
+        "website": "https://espaceallegria.com"
+    },
+    {
+        "id": "toulouse-4",
+        "name": "Yoga Saint-Cyprien",
+        "city": "Toulouse",
+        "address": "40 Allées Charles de Fitte, 31300 Toulouse",
+        "type": [
+            "Iyengar"
+        ],
+        "rating": 4.6,
+        "website": "https://yogastcyprien.com"
+    },
+    {
+        "id": "nice-1",
+        "name": "Yoga Nice",
+        "city": "Nice",
+        "address": "26 Rue Lamartine, 06000 Nice",
+        "type": [
+            "Hatha",
+            "Vinyasa"
+        ],
+        "rating": 4.7,
+        "website": "https://yoganice.fr"
+    },
+    {
+        "id": "nice-2",
+        "name": "Studio K",
+        "city": "Nice",
+        "address": "12 Rue Biscarra, 06000 Nice",
+        "type": [
+            "Pilates",
+            "Yoga"
+        ],
+        "rating": 4.8,
+        "website": "https://studiok-nice.com"
+    },
+    {
+        "id": "nice-3",
+        "name": "Bikram Yoga Nice",
+        "city": "Nice",
+        "address": "6 Rue du Congrès, 06000 Nice",
+        "type": [
+            "Bikram"
+        ],
+        "rating": 4.5,
+        "website": "https://bikramyoganice.com"
+    },
+    {
+        "id": "nice-4",
+        "name": "Joyah",
+        "city": "Nice",
+        "address": "15 Rue Gioffredo, 06000 Nice",
+        "type": [
+            "Vinyasa",
+            "Yin"
+        ],
+        "rating": 4.9,
+        "website": "https://joyah.fr"
+    },
+    {
+        "id": "nantes-1",
+        "name": "Elephant Yoga Studio",
+        "city": "Nantes",
+        "address": "3 Rue de la Tour d'Auvergne, 44200 Nantes",
+        "type": [
+            "Vinyasa",
+            "Hatha"
+        ],
+        "rating": 4.8,
+        "website": "https://elephantyoga.studio"
+    },
+    {
+        "id": "nantes-2",
+        "name": "June Yoga",
+        "city": "Nantes",
+        "address": "8 Quai de Versailles, 44000 Nantes",
+        "type": [
+            "Vinyasa",
+            "Yin"
+        ],
+        "rating": 4.9,
+        "website": "https://juneyoga.fr"
+    },
+    {
+        "id": "nantes-3",
+        "name": "Yoga Searcher Nantes",
+        "city": "Nantes",
+        "address": "1 Rue de la Fosse, 44000 Nantes",
+        "type": [
+            "Boutique",
+            "Studio"
+        ],
+        "rating": 4.7,
+        "website": "https://yogasearcher.com"
+    },
+    {
+        "id": "nantes-4",
+        "name": "Nantes Yoga",
+        "city": "Nantes",
+        "address": "14 Rue Racine, 44000 Nantes",
+        "type": [
+            "Iyengar"
+        ],
+        "rating": 4.6,
+        "website": "https://nantesyoga.fr"
+    },
+    {
+        "id": "strasbourg-1",
+        "name": "Yogamoves Strasbourg",
+        "city": "Strasbourg",
+        "address": "10 Rue de la Division Leclerc, 67000 Strasbourg",
+        "type": [
+            "Vinyasa",
+            "Hot Yoga"
+        ],
+        "rating": 4.8,
+        "website": "https://yogamoves.fr"
+    },
+    {
+        "id": "strasbourg-2",
+        "name": "Le Studio Strasbourg",
+        "city": "Strasbourg",
+        "address": "22 Rue du Fossé-des-Tanneurs, 67000 Strasbourg",
+        "type": [
+            "Hatha",
+            "Ashtanga"
+        ],
+        "rating": 4.7,
+        "website": "https://lestudio-strasbourg.comm"
+    },
+    {
+        "id": "strasbourg-3",
+        "name": "Bikram Yoga Strasbourg",
+        "city": "Strasbourg",
+        "address": "17 Rue du Marais Vert, 67000 Strasbourg",
+        "type": [
+            "Bikram"
+        ],
+        "rating": 4.6,
+        "website": "https://bikramyogastrasbourg.com"
+    },
+    {
+        "id": "strasbourg-4",
+        "name": "Om Yoga",
+        "city": "Strasbourg",
+        "address": "5 Rue Saint-Etienne, 67000 Strasbourg",
+        "type": [
+            "Vinyasa",
+            "Yin"
+        ],
+        "rating": 4.9,
+        "website": "https://om-yoga-strasbourg.fr"
+    },
+    {
+        "id": "montpellier-1",
+        "name": "Le Nuage",
+        "city": "Montpellier",
+        "address": "769 Avenue de la Mer-Raymond Dugrand, 34000 Montpellier",
+        "type": [
+            "Wellness",
+            "Design"
+        ],
+        "rating": 4.9,
+        "website": "https://le-nuage.fr"
+    },
+    {
+        "id": "montpellier-2",
+        "name": "Yoga Montpellier",
+        "city": "Montpellier",
+        "address": "3 Boulevard des Arceaux, 34000 Montpellier",
+        "type": [
+            "Hatha",
+            "Meditation"
+        ],
+        "rating": 4.7,
+        "website": "https://yogamontpellier.fr"
+    },
+    {
+        "id": "montpellier-3",
+        "name": "Ashtanga Yoga Montpellier",
+        "city": "Montpellier",
+        "address": "18 Rue de l'Université, 34000 Montpellier",
+        "type": [
+            "Ashtanga",
+            "Mysore"
+        ],
+        "rating": 4.8,
+        "website": "https://ashtangamontpellier.fr"
+    },
+    {
+        "id": "montpellier-4",
+        "name": "Studio Koneadesign",
+        "city": "Montpellier",
+        "address": "4 Rue de la Barralerie, 34000 Montpellier",
+        "type": [
+            "Pilates",
+            "Yoga"
+        ],
+        "rating": 4.6,
+        "website": "https://koneadesign.com"
+    },
+    {
+        "id": "lille-1",
+        "name": "Yoga Lite",
+        "city": "Lille",
+        "address": "27 Rue des Bouchers, 59800 Lille",
+        "type": [
+            "Hatha",
+            "Vinyasa"
+        ],
+        "rating": 4.8,
+        "website": "https://yogalite.fr"
+    },
+    {
+        "id": "lille-2",
+        "name": "Bikram Yoga Lille",
+        "city": "Lille",
+        "address": "68 Rue de la Glacière, 59000 Lille",
+        "type": [
+            "Bikram",
+            "Hot Yoga"
+        ],
+        "rating": 4.7,
+        "website": "https://bikramyogalille.com"
+    },
+    {
+        "id": "lille-3",
+        "name": "Le Studio Yoga",
+        "city": "Lille",
+        "address": "14 Rue du Cirque, 59800 Lille",
+        "type": [
+            "Iyengar"
+        ],
+        "rating": 4.9,
+        "website": "https://lestudioyoga.fr"
+    },
+    {
+        "id": "lille-4",
+        "name": "Joga Yoga",
+        "city": "Lille",
+        "address": "24 Rue des Archives, 59800 Lille",
+        "type": [
+            "Vinyasa",
+            "Fun"
+        ],
+        "rating": 4.6,
+        "website": "https://jogayoga.fr"
+    },
+    {
+        "id": "rennes-1",
+        "name": "Yogah Rennes",
+        "city": "Rennes",
+        "address": "16 Rue de Penhoët, 35000 Rennes",
+        "type": [
+            "Vinyasa",
+            "Warrior"
+        ],
+        "rating": 4.8,
+        "website": "https://yogah.fr"
+    },
+    {
+        "id": "rennes-2",
+        "name": "Studio Nataraja",
+        "city": "Rennes",
+        "address": "17 Rue Hoche, 35000 Rennes",
+        "type": [
+            "Hatha",
+            "Prénatal"
+        ],
+        "rating": 4.7,
+        "website": "https://studio-nataraja-rennes.fr"
+    },
+    {
+        "id": "rennes-3",
+        "name": "Sakura Yoga",
+        "city": "Rennes",
+        "address": "34 Rue Maréchal Joffre, 35000 Rennes",
+        "type": [
+            "Yin",
+            "Nidra"
+        ],
+        "rating": 4.9,
+        "website": "https://sakura-yoga.fr"
+    },
+    {
+        "id": "aix-1",
+        "name": "Le Studio d'Aix",
+        "city": "Aix-en-Provence",
+        "address": "5 Rue Pierre et Marie Curie, 13100 Aix-en-Provence",
+        "type": [
+            "Ashtanga",
+            "Vinyasa"
+        ],
+        "rating": 4.8,
+        "website": "https://lestudiodaix.com"
+    },
+    {
+        "id": "aix-2",
+        "name": "Yoga Searcher Aix",
+        "city": "Aix-en-Provence",
+        "address": "10 Rue Aude, 13100 Aix-en-Provence",
+        "type": [
+            "Boutique",
+            "Vinyasa"
+        ],
+        "rating": 4.7,
+        "website": "https://yogasearcher-aix.com"
+    },
+    {
+        "id": "aix-3",
+        "name": "Pura Vida",
+        "city": "Aix-en-Provence",
+        "address": "30 Avenue Sainte-Victoire, 13100 Aix-en-Provence",
+        "type": [
+            "Pilates",
+            "Flow"
+        ],
+        "rating": 4.9,
+        "website": "https://puravida-aix.com"
+    },
+    {
+        "id": "biarritz-1",
+        "name": "Yoga Searcher Biarritz",
+        "city": "Biarritz",
+        "address": "16 Avenue Edouard VII, 64200 Biarritz",
+        "type": [
+            "Hatha",
+            "Retreat"
+        ],
+        "rating": 4.8,
+        "website": "https://yogasearcher-biarritz.com"
+    },
+    {
+        "id": "biarritz-2",
+        "name": "Le Studio Biarritz",
+        "city": "Biarritz",
+        "address": "22 Rue Gambetta, 64200 Biarritz",
+        "type": [
+            "Flow",
+            "Yin"
+        ],
+        "rating": 4.7,
+        "website": "https://lestudiobiarritz.com"
+    },
+    {
+        "id": "annecy-1",
+        "name": "Inspire Yoga Annecy",
+        "city": "Annecy",
+        "address": "8 Rue de la Poste, 74000 Annecy",
+        "type": [
+            "Vinyasa",
+            "Hatha"
+        ],
+        "rating": 4.9,
+        "website": "https://inspire-yoga-annecy.fr"
+    },
+    {
+        "id": "annecy-2",
+        "name": "Le Studio Pilates & Yoga",
+        "city": "Annecy",
+        "address": "40 Avenue de Brogny, 74000 Annecy",
+        "type": [
+            "Pilates",
+            "Reformer"
+        ],
+        "rating": 4.8,
+        "website": "https://lestudio-annecy.com"
+    },
+    {
+        "id": "grenoble-1",
+        "name": "Happy Shala",
+        "city": "Grenoble",
+        "address": "2 Rue Voltaire, 38000 Grenoble",
+        "type": [
+            "Ashtanga",
+            "Vinyasa"
+        ],
+        "rating": 4.8,
+        "website": "https://happyshala.com"
+    },
+    {
+        "id": "grenoble-2",
+        "name": "Yoga Sisters",
+        "city": "Grenoble",
+        "address": "10 Rue de la Paix, 38000 Grenoble",
+        "type": [
+            "Yin",
+            "Women Circle"
+        ],
+        "rating": 4.7,
+        "website": "https://yogasisters.fr"
+    },
+    {
+        "id": "grenoble-3",
+        "name": "Zen Altitude",
+        "city": "Grenoble",
+        "address": "25 Cours Jean Jaurès, 38000 Grenoble",
+        "type": [
+            "Hatha",
+            "Nidra"
+        ],
+        "rating": 4.6,
+        "website": "https://zenaltitude-grenoble.fr"
+    },
+    {
+        "id": "paris-10",
+        "name": "Klay Sporting Club",
+        "city": "Paris",
+        "address": "4 Rue de la Perle, 75003 Paris",
+        "type": [
+            "Power Yoga",
+            "Pilates"
+        ],
+        "rating": 4.5,
+        "website": "https://klay.fr"
+    },
+    {
+        "id": "paris-11",
+        "name": "Yoga Bikram Paris Grands Boulevards",
+        "city": "Paris",
+        "address": "17 Rue du Faubourg Montmartre, 75009 Paris",
+        "type": [
+            "Bikram",
+            "Hot Yoga"
+        ],
+        "rating": 4.7,
+        "website": "https://yogabikramparis.com"
+    },
+    {
+        "id": "paris-12",
+        "name": "Casa Yoga",
+        "city": "Paris",
+        "address": "26 Rue du Bourg Tibourg, 75004 Paris",
+        "type": [
+            "Hatha",
+            "Restorative"
+        ],
+        "rating": 4.8,
+        "website": "https://casayoga.tv"
+    },
+    {
+        "id": "paris-13",
+        "name": "YAY Yoga",
+        "city": "Paris",
+        "address": "21 Rue du Château d'Eau, 75010 Paris",
+        "type": [
+            "Vinyasa",
+            "Community"
+        ],
+        "rating": 4.9,
+        "website": "https://yayyoga.fr"
+    },
+    {
+        "id": "lyon-6",
+        "name": "Yoze Lyon",
+        "city": "Lyon",
+        "address": "18 Rue Sala, 69002 Lyon",
+        "type": [
+            "Hot Yoga",
+            "Pilates"
+        ],
+        "rating": 4.7,
+        "website": "https://yoze.fr"
+    },
+    {
+        "id": "lyon-7",
+        "name": "Ashtanga Yoga Lyon",
+        "city": "Lyon",
+        "address": "7 Rue Paul Bert, 69003 Lyon",
+        "type": [
+            "Ashtanga",
+            "Mysore"
+        ],
+        "rating": 4.9,
+        "website": "https://ashtangayogalyon.fr"
+    },
+    {
+        "id": "marseille-5",
+        "name": "Yoga Room Marseille",
+        "city": "Marseille",
+        "address": "41 Rue Saint-Ferréol, 13001 Marseille",
+        "type": [
+            "Vinyasa",
+            "Yin"
+        ],
+        "rating": 4.7,
+        "website": "https://yogaroom-marseille.com"
+    },
+    {
+        "id": "marseille-6",
+        "name": "Shakti Yoga",
+        "city": "Marseille",
+        "address": "15 Boulevard Longchamp, 13001 Marseille",
+        "type": [
+            "Kundalini",
+            "Meditation"
+        ],
+        "rating": 4.8,
+        "website": "https://shaktiyoga-marseille.fr"
+    },
+    {
+        "id": "toulouse-5",
+        "name": "Bikram Yoga Toulouse",
+        "city": "Toulouse",
+        "address": "8 Rue d'Austerlitz, 31000 Toulouse",
+        "type": [
+            "Bikram",
+            "Hot Yoga"
+        ],
+        "rating": 4.7,
+        "website": "https://bikramyogatoulouse.com"
+    },
+    {
+        "id": "toulouse-6",
+        "name": "Namasté Toulouse",
+        "city": "Toulouse",
+        "address": "52 Rue Pargaminières, 31000 Toulouse",
+        "type": [
+            "Hatha",
+            "Prenatal"
+        ],
+        "rating": 4.8,
+        "website": "https://namaste-toulouse.fr"
+    },
+    {
+        "id": "nice-5",
+        "name": "Yoga Shala Nice",
+        "city": "Nice",
+        "address": "3 Rue Tonduti de l'Escarène, 06000 Nice",
+        "type": [
+            "Ashtanga",
+            "Mysore"
+        ],
+        "rating": 4.8,
+        "website": "https://yogashala-nice.fr"
+    },
+    {
+        "id": "nice-6",
+        "name": "Flow Yoga Nice",
+        "city": "Nice",
+        "address": "28 Boulevard Victor Hugo, 06000 Nice",
+        "type": [
+            "Flow",
+            "Restorative"
+        ],
+        "rating": 4.6,
+        "website": "https://flowyoga-nice.com"
+    },
+    {
+        "id": "nantes-5",
+        "name": "Yogi Lab Nantes",
+        "city": "Nantes",
+        "address": "5 Rue Piron, 44000 Nantes",
+        "type": [
+            "Ashtanga",
+            "Hot Yoga"
+        ],
+        "rating": 4.8,
+        "website": "https://yogilab-nantes.fr"
+    },
+    {
+        "id": "lille-5",
+        "name": "Namasté Lille",
+        "city": "Lille",
+        "address": "10 Rue de Gand, 59000 Lille",
+        "type": [
+            "Hatha",
+            "Meditation"
+        ],
+        "rating": 4.7,
+        "website": "https://namaste-lille.fr"
+    },
+    {
+        "id": "lille-6",
+        "name": "Shanti Yoga Lille",
+        "city": "Lille",
+        "address": "42 Rue Esquermoise, 59000 Lille",
+        "type": [
+            "Vinyasa",
+            "Prenatal"
+        ],
+        "rating": 4.8,
+        "website": "https://shantiyoga-lille.fr"
+    },
+    {
+        "id": "dijon-1",
+        "name": "Yoga Dijon",
+        "city": "Dijon",
+        "address": "12 Rue Musette, 21000 Dijon",
+        "type": [
+            "Hatha",
+            "Vinyasa"
+        ],
+        "rating": 4.7,
+        "website": "https://yoga-dijon.fr"
+    },
+    {
+        "id": "dijon-2",
+        "name": "Le Centre Yoga",
+        "city": "Dijon",
+        "address": "4 Place Darcy, 21000 Dijon",
+        "type": [
+            "Iyengar",
+            "Meditation"
+        ],
+        "rating": 4.8,
+        "website": "https://lecentreyoga-dijon.com"
+    },
+    {
+        "id": "dijon-3",
+        "name": "Atelier du Souffle",
+        "city": "Dijon",
+        "address": "28 Rue des Forges, 21000 Dijon",
+        "type": [
+            "Pranayama",
+            "Yin"
+        ],
+        "rating": 4.9,
+        "website": "https://atelierdusouffle.fr"
+    },
+    {
+        "id": "tours-1",
+        "name": "Yoga Home Tours",
+        "city": "Tours",
+        "address": "15 Rue Colbert, 37000 Tours",
+        "type": [
+            "Vinyasa",
+            "Hatha"
+        ],
+        "rating": 4.8,
+        "website": "https://yogahome-tours.fr"
+    },
+    {
+        "id": "tours-2",
+        "name": "Studio Shala",
+        "city": "Tours",
+        "address": "8 Rue du Grand Marché, 37000 Tours",
+        "type": [
+            "Ashtanga",
+            "Flow"
+        ],
+        "rating": 4.7,
+        "website": "https://studioshala-tours.com"
+    },
+    {
+        "id": "tours-3",
+        "name": "Bikram Yoga Tours",
+        "city": "Tours",
+        "address": "22 Boulevard Heurteloup, 37000 Tours",
+        "type": [
+            "Bikram"
+        ],
+        "rating": 4.6,
+        "website": "https://bikramyogatours.fr"
+    },
+    {
+        "id": "rouen-1",
+        "name": "Yoga Factory Rouen",
+        "city": "Rouen",
+        "address": "18 Rue Ganterie, 76000 Rouen",
+        "type": [
+            "Vinyasa",
+            "Hot Yoga"
+        ],
+        "rating": 4.8,
+        "website": "https://yogafactory-rouen.fr"
+    },
+    {
+        "id": "rouen-2",
+        "name": "Om Shanti Rouen",
+        "city": "Rouen",
+        "address": "5 Rue du Gros-Horloge, 76000 Rouen",
+        "type": [
+            "Hatha",
+            "Nidra"
+        ],
+        "rating": 4.7,
+        "website": "https://omshanti-rouen.com"
+    },
+    {
+        "id": "rouen-3",
+        "name": "Espace Yoga",
+        "city": "Rouen",
+        "address": "42 Rue Jeanne d'Arc, 76000 Rouen",
+        "type": [
+            "Iyengar"
+        ],
+        "rating": 4.6,
+        "website": "https://espaceyoga-rouen.fr"
+    },
+    {
+        "id": "metz-1",
+        "name": "Yoga Metz Centre",
+        "city": "Metz",
+        "address": "8 Rue des Clercs, 57000 Metz",
+        "type": [
+            "Hatha",
+            "Vinyasa"
+        ],
+        "rating": 4.7,
+        "website": "https://yogametz.fr"
+    },
+    {
+        "id": "metz-2",
+        "name": "Studio Zen Metz",
+        "city": "Metz",
+        "address": "14 Place Saint-Jacques, 57000 Metz",
+        "type": [
+            "Yin",
+            "Restorative"
+        ],
+        "rating": 4.8,
+        "website": "https://studiozenmetz.com"
+    },
+    {
+        "id": "metz-3",
+        "name": "Hot Yoga Metz",
+        "city": "Metz",
+        "address": "3 Rue du Pont des Morts, 57000 Metz",
+        "type": [
+            "Bikram",
+            "Hot Yoga"
+        ],
+        "rating": 4.6,
+        "website": "https://hotyogametz.fr"
+    },
+    {
+        "id": "la-rochelle-1",
+        "name": "Yoga Océan",
+        "city": "La Rochelle",
+        "address": "12 Rue du Minage, 17000 La Rochelle",
+        "type": [
+            "Vinyasa",
+            "Flow"
+        ],
+        "rating": 4.9,
+        "website": "https://yogaocean.fr"
+    },
+    {
+        "id": "la-rochelle-2",
+        "name": "Studio Padma",
+        "city": "La Rochelle",
+        "address": "5 Rue Chaudrier, 17000 La Rochelle",
+        "type": [
+            "Hatha",
+            "Yin"
+        ],
+        "rating": 4.7,
+        "website": "https://studiopadma.com"
+    },
+    {
+        "id": "la-rochelle-3",
+        "name": "Shala Yoga La Rochelle",
+        "city": "La Rochelle",
+        "address": "28 Cours des Dames, 17000 La Rochelle",
+        "type": [
+            "Ashtanga",
+            "Pranayama"
+        ],
+        "rating": 4.8,
+        "website": "https://shalayoga-larochelle.fr"
+    },
+    {
+        "id": "cannes-1",
+        "name": "Yoga Cannes",
+        "city": "Cannes",
+        "address": "15 Rue d'Antibes, 06400 Cannes",
+        "type": [
+            "Hatha",
+            "Pilates"
+        ],
+        "rating": 4.7,
+        "website": "https://yogacannes.fr"
+    },
+    {
+        "id": "cannes-2",
+        "name": "Riviera Yoga",
+        "city": "Cannes",
+        "address": "8 Boulevard de la Croisette, 06400 Cannes",
+        "type": [
+            "Vinyasa",
+            "Beach Yoga"
+        ],
+        "rating": 4.9,
+        "website": "https://rivierayoga.com"
+    },
+    {
+        "id": "avignon-1",
+        "name": "Yoga Palace Avignon",
+        "city": "Avignon",
+        "address": "20 Rue de la République, 84000 Avignon",
+        "type": [
+            "Hatha",
+            "Vinyasa"
+        ],
+        "rating": 4.8,
+        "website": "https://yogapalace-avignon.fr"
+    },
+    {
+        "id": "avignon-2",
+        "name": "Le Loft Yoga",
+        "city": "Avignon",
+        "address": "3 Place de l'Horloge, 84000 Avignon",
+        "type": [
+            "Yin",
+            "Sound Bath"
+        ],
+        "rating": 4.7,
+        "website": "https://leloftyoga-avignon.com"
+    },
+    {
+        "id": "avignon-3",
+        "name": "Ashtanga Avignon",
+        "city": "Avignon",
+        "address": "12 Rue des Teinturiers, 84000 Avignon",
+        "type": [
+            "Ashtanga",
+            "Mysore"
+        ],
+        "rating": 4.9,
+        "website": "https://ashtanga-avignon.fr"
+    },
+    {
+        "id": "pau-1",
+        "name": "Yoga Pyrénées",
+        "city": "Pau",
+        "address": "10 Rue Henri IV, 64000 Pau",
+        "type": [
+            "Hatha",
+            "Mountain Retreat"
+        ],
+        "rating": 4.8,
+        "website": "https://yogapyrenees.fr"
+    },
+    {
+        "id": "pau-2",
+        "name": "Studio Béarn Yoga",
+        "city": "Pau",
+        "address": "25 Rue du Maréchal Joffre, 64000 Pau",
+        "type": [
+            "Vinyasa",
+            "Yin"
+        ],
+        "rating": 4.7,
+        "website": "https://bearn-yoga.com"
+    },
+    {
+        "id": "toulon-1",
+        "name": "Yoga Soleil Toulon",
+        "city": "Toulon",
+        "address": "14 Rue Jean Jaurès, 83000 Toulon",
+        "type": [
+            "Vinyasa",
+            "Hatha"
+        ],
+        "rating": 4.7,
+        "website": "https://yogasoleil-toulon.fr"
+    },
+    {
+        "id": "toulon-2",
+        "name": "Studio Méditerranée",
+        "city": "Toulon",
+        "address": "6 Place de la Liberté, 83000 Toulon",
+        "type": [
+            "Pilates",
+            "Flow"
+        ],
+        "rating": 4.8,
+        "website": "https://studiomediterranee.com"
+    },
+    {
+        "id": "toulon-3",
+        "name": "Bikram Yoga Toulon",
+        "city": "Toulon",
+        "address": "30 Boulevard de Strasbourg, 83000 Toulon",
+        "type": [
+            "Bikram"
+        ],
+        "rating": 4.5,
+        "website": "https://bikramyogatoulon.fr"
+    },
+    {
+        "id": "perpignan-1",
+        "name": "Yoga Perpignan",
+        "city": "Perpignan",
+        "address": "18 Rue Mailly, 66000 Perpignan",
+        "type": [
+            "Hatha",
+            "Nidra"
+        ],
+        "rating": 4.7,
+        "website": "https://yogaperpignan.fr"
+    },
+    {
+        "id": "perpignan-2",
+        "name": "Studio Catalan Yoga",
+        "city": "Perpignan",
+        "address": "5 Place de la Loge, 66000 Perpignan",
+        "type": [
+            "Vinyasa",
+            "Ashtanga"
+        ],
+        "rating": 4.8,
+        "website": "https://catalanyoga.com"
+    },
+    {
+        "id": "clermont-1",
+        "name": "Yoga Volcan",
+        "city": "Clermont-Ferrand",
+        "address": "12 Place de Jaude, 63000 Clermont-Ferrand",
+        "type": [
+            "Hatha",
+            "Power Yoga"
+        ],
+        "rating": 4.8,
+        "website": "https://yogavolcan.fr"
+    },
+    {
+        "id": "clermont-2",
+        "name": "Auvergne Yoga",
+        "city": "Clermont-Ferrand",
+        "address": "3 Rue Ballainvilliers, 63000 Clermont-Ferrand",
+        "type": [
+            "Iyengar",
+            "Meditation"
+        ],
+        "rating": 4.7,
+        "website": "https://auvergneyoga.com"
+    },
+    {
+        "id": "clermont-3",
+        "name": "Studio Prana",
+        "city": "Clermont-Ferrand",
+        "address": "20 Rue des Gras, 63000 Clermont-Ferrand",
+        "type": [
+            "Vinyasa",
+            "Pranayama"
+        ],
+        "rating": 4.9,
+        "website": "https://studioprana-clermont.fr"
+    },
+    {
+        "id": "saint-etienne-1",
+        "name": "Yoga Saint-Étienne",
+        "city": "Saint-Étienne",
+        "address": "8 Place Jean Jaurès, 42000 Saint-Étienne",
+        "type": [
+            "Hatha",
+            "Vinyasa"
+        ],
+        "rating": 4.7,
+        "website": "https://yogasaintetienne.fr"
+    },
+    {
+        "id": "saint-etienne-2",
+        "name": "Studio Dharma",
+        "city": "Saint-Étienne",
+        "address": "15 Rue de la Résistance, 42000 Saint-Étienne",
+        "type": [
+            "Yin",
+            "Kundalini"
+        ],
+        "rating": 4.8,
+        "website": "https://dharma-yoga.fr"
+    },
+    {
+        "id": "caen-1",
+        "name": "Yoga Caen Centre",
+        "city": "Caen",
+        "address": "6 Rue Saint-Pierre, 14000 Caen",
+        "type": [
+            "Hatha",
+            "Vinyasa"
+        ],
+        "rating": 4.8,
+        "website": "https://yogacaen.fr"
+    },
+    {
+        "id": "caen-2",
+        "name": "Normandie Yoga",
+        "city": "Caen",
+        "address": "22 Rue de Bernières, 14000 Caen",
+        "type": [
+            "Ashtanga",
+            "Yin"
+        ],
+        "rating": 4.7,
+        "website": "https://normandieyoga.com"
+    },
+    {
+        "id": "limoges-1",
+        "name": "Yoga Limoges",
+        "city": "Limoges",
+        "address": "10 Rue du Consulat, 87000 Limoges",
+        "type": [
+            "Hatha",
+            "Meditation"
+        ],
+        "rating": 4.7,
+        "website": "https://yogalimoges.fr"
+    },
+    {
+        "id": "limoges-2",
+        "name": "L'Atelier Yoga",
+        "city": "Limoges",
+        "address": "3 Place de la République, 87000 Limoges",
+        "type": [
+            "Vinyasa",
+            "Yin"
+        ],
+        "rating": 4.8,
+        "website": "https://latelieryoga-limoges.com"
+    },
+    {
+        "id": "reims-1",
+        "name": "Yoga Reims",
+        "city": "Reims",
+        "address": "14 Rue de Vesle, 51100 Reims",
+        "type": [
+            "Hatha",
+            "Vinyasa"
+        ],
+        "rating": 4.7,
+        "website": "https://yogareims.fr"
+    },
+    {
+        "id": "reims-2",
+        "name": "Champagne Yoga",
+        "city": "Reims",
+        "address": "8 Place Drouet-d'Erlon, 51100 Reims",
+        "type": [
+            "Flow",
+            "Restorative"
+        ],
+        "rating": 4.8,
+        "website": "https://champagneyoga.com"
+    },
+    {
+        "id": "reims-3",
+        "name": "Studio Equilibre",
+        "city": "Reims",
+        "address": "20 Rue Carnot, 51100 Reims",
+        "type": [
+            "Iyengar",
+            "Pilates"
+        ],
+        "rating": 4.6,
+        "website": "https://studio-equilibre-reims.fr"
+    },
+    {
+        "id": "nancy-1",
+        "name": "Yoga Nancy",
+        "city": "Nancy",
+        "address": "5 Rue Stanislas, 54000 Nancy",
+        "type": [
+            "Hatha",
+            "Pranayama"
+        ],
+        "rating": 4.8,
+        "website": "https://yoganancy.fr"
+    },
+    {
+        "id": "nancy-2",
+        "name": "Art Nouveau Yoga",
+        "city": "Nancy",
+        "address": "12 Rue Saint-Jean, 54000 Nancy",
+        "type": [
+            "Vinyasa",
+            "Yin"
+        ],
+        "rating": 4.7,
+        "website": "https://artnouveauyoga.com"
+    },
+    {
+        "id": "ajaccio-1",
+        "name": "Yoga Corse",
+        "city": "Ajaccio",
+        "address": "8 Cours Napoléon, 20000 Ajaccio",
+        "type": [
+            "Hatha",
+            "Beach Yoga"
+        ],
+        "rating": 4.9,
+        "website": "https://yogacorse.fr"
+    },
+    {
+        "id": "ajaccio-2",
+        "name": "Maquis Yoga",
+        "city": "Ajaccio",
+        "address": "15 Rue Cardinal Fesch, 20000 Ajaccio",
+        "type": [
+            "Vinyasa",
+            "Outdoor"
+        ],
+        "rating": 4.8,
+        "website": "https://maquisyoga.com"
+    }
+]
